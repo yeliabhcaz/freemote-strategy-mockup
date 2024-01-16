@@ -7,7 +7,7 @@
 }
 
 body {
-  height: 1000vh;
+  height: 260vh;
 }
 
 h1 {
@@ -111,62 +111,59 @@ p {
   background: url('/images/lifetime-access.png');
   background-size: cover;
   position: relative;
-  bottom: 40px;
-  height: 250px;
+  height: 300px;
 }
 
 #two {
-  background: url('/images/lifetime-access.png');
+  background: url('/images/otp.jpeg');
   background-size: cover;
   position: relative;
-  bottom: 40px;
-  height: 250px;
+  height: 300px;
 }
 
 #three {
-  background: url('/images/lifetime-access.png');
+  background: url('/images/700-videos.png');
   background-size: cover;
   position: relative;
-  bottom: 40px;
-  height: 250px;
+  height: 300px;
 }
 
 #four {
-  background: url('/images/lifetime-access.png');
+  background: url('/images/unlock-video.png');
   background-size: cover;
   position: relative;
-  bottom: 40px;
-  height: 250px;
+  height: 300px;
 }
 
 #five {
-  background: url('/images/lifetime-access.png');
+  background: url('/images/facebook-group.png');
   background-size: cover;
   position: relative;
-  bottom: 40px;
-  height: 250px;
+  height: 300px;
 }
 
 #six {
-  background: url('/images/lifetime-access.png');
+  background: url('/images/discount.png');
   background-size: cover;
   position: relative;
-  bottom: 40px;
-  height: 250px;
+  height: 300px;
 }
 
 #seven {
-  background: url('/images/lifetime-access.png');
+  background: url('/images/downloads.png');
   background-size: cover;
   position: relative;
-  bottom: 40px;
-  height: 250px;
+  height: 300px;
 }
 
 #eight {
-  background: url('/images/lifetime-access.png');
+  background: url('/images/30daymondayback.png');
   background-size: cover;
   position: relative;
-  bottom: 40px;
-  height: 250px;
+  height: 300px;
+}
+
+.cta-2 {
+  margin-top: 50px;
+  font-size: 35px;
 }
