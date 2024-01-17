@@ -17,6 +17,11 @@ h1 {
   width: 95%;
 }
 
+.hero-image {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
 p {
   font-size: 18px;
   padding-top: 15px;
@@ -50,6 +55,7 @@ p {
 
 .hero-text {
   color: white;
+  font-size: 25px;
 }
 
 .cta {
@@ -105,7 +111,7 @@ p {
 
 .benefit {
   width: 300px;
-  height: 325px;
+  height: 350px;
   margin-top: 15px;
   padding: 25px;
   border-radius: 7px;
@@ -136,12 +142,16 @@ p {
   transform: scale(.7);
 }
 
-.discount-image {
+.discount-image, .live-image {
   margin-top: 25px;
 }
 
-.discount {
+.discount{
   margin-top: 25px;
+}
+
+.live {
+  padding-top: 50px;
 }
 
 .cta-2 {
