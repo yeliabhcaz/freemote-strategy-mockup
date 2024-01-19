@@ -212,6 +212,10 @@ li {
   font-weight: bold;
 }
 
+.benefit-bullet-title {
+  color: darkslategray;
+}
+
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 800px) {
