@@ -203,6 +203,7 @@ li {
   border-radius: 7px;
   padding: 25px;
   margin: 30px auto;
+  border: 2px solid #f40000;
 }
 
 .lifetime {
