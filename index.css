@@ -8,6 +8,7 @@
 
 body {
   height: auto;
+  overflow-x: hidden;
 }
 
 h1 {
