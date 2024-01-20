@@ -81,24 +81,26 @@ p {
 
 .body-title {
   color: darkslategray;
+  margin-top: 35px;
 }
 
 .body-discount {
   margin-top: 75px auto auto auto;
   color: darkslategray;
-  font-size: 25px;
+  font-size: 36px;
+  font-weight: bold;
 }
 
 ul {
   margin: 15px auto 30px auto;
   width: 75%;
   color: darkslategray;
-  font-size: 18px;
+  font-size: 24px;
   list-style-type: none;
 }
 
 li {
-  padding: 5px;
+  padding: 10px;
   text-align: left;
 }
 
@@ -123,7 +125,7 @@ li {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  margin: 30px;
+  margin: 100px;
 }
 
 .benefit {
@@ -172,10 +174,15 @@ li {
 }
 
 .cta-2 {
-  margin-top: 50px;
+  margin-top: 30px;
   font-size: 35px;
   width: 80%;
 }
+
+.bold {
+  font-weight: bold;
+}
+
 
 .offer-box {
   height: auto;
@@ -184,7 +191,7 @@ li {
   margin: auto;
   position: relative;
   right: 150px;
-  padding: 30px;
+  padding: 10px;
 }
 
 .offer-title {
@@ -198,13 +205,21 @@ li {
 }
 
 .benefit-bullets {
-  width: 40%;
+  max-width: 30%;
   height: auto;
   background: rgb(240,240,240);
-  border-radius: 7px;
+  border-radius: 20px;
   padding: 25px;
-  margin: 30px auto;
+  margin: 100px auto;
   border: 2px solid #f40000;
+}
+
+.previous {
+  font-size: 36px;
+}
+
+.limited {
+  font-size: 24px;
 }
 
 .lifetime {
